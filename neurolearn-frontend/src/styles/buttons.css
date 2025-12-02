@@ -1,0 +1,38 @@
+.btn-ghost {
+  background-color: #1a1a1d;
+  border: 1px solid #2a2a2d;
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-size: 0.85rem;
+  color: #d4d4d4;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-ghost:hover {
+  background-color: #2a2a2d;
+  color: #ffffff;
+}
+.drop-zone {
+  border: 2px dashed #c4b5fd;
+  border-radius: 18px;
+  padding: 24px 12px;
+  text-align: center;
+  cursor: pointer;
+  margin-bottom: 14px;
+  background: linear-gradient(
+    135deg,
+    rgba(129, 140, 248, 0.06),
+    rgba(196, 181, 253, 0.08)
+  );
+  transition: all 0.2s ease;
+}
+
+.drop-zone:hover {
+  background: linear-gradient(
+    135deg,
+    rgba(129, 140, 248, 0.14),
+    rgba(196, 181, 253, 0.18)
+  );
+  transform: translateY(-1px);
+}
