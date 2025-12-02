@@ -1,0 +1,5 @@
+NeuroLearn AI es una plataforma web desarrollada para optimizar los procesos educativos mediante el uso de inteligencia artificial. El sistema permite transformar documentos en formatos PDF, Word o texto en contenido académico estructurado, incluyendo quizzes, resúmenes temáticos y presentaciones en formato PPTX.
+
+La plataforma implementa un sistema de roles para Administradores, Docentes y Estudiantes, permitiendo gestionar usuarios, cursos, evaluaciones y materiales educativos. Asimismo, integra servicios de IA para el análisis de texto, generación de contenidos y automatización de tareas que normalmente requieren tiempo y esfuerzo por parte del docente.
+
+NeuroLearn AI está desarrollada con tecnologías modernas como React, Node.js, Express, MongoDB y OpenAI, garantizando un entorno escalable, seguro y eficiente. Además, incorpora autenticación mediante JWT, manejo de archivos, generación de presentaciones con PptxGenJS y una arquitectura modular que facilita la expansión del sistema.
